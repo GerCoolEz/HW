@@ -1,0 +1,22 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url(https://pushkin.123ot.ru/802/ob/%D0%BE%D0%B1%D0%BE%D0%B8-%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81.jpg);
+}
+
+div {
+    text-align: center;
+    border: solid;
+    color: white;
+   
+   
+}
+
+img{
+    width: 60%;
+}
+
+
+p {
+    font-size: 20px;
+}

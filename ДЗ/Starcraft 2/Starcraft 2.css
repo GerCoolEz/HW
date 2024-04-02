@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://images.blz-contentstack.com/v3/assets/blt2ef8b4fee426fd3e/bltf647443249f7b7e0/5f468c730cfe4555ebb3a6df/Wallpaper-5-1920.jpg);
+}
+
+
+div {
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    -webkit-text-stroke: 1%;
+    border: solid;
+    border-radius: 20px;
+    -webkit-text-stroke-color: black;
+}
+
+a {
+    color: rgb(247, 252, 0);
+    text-decoration: none;
+    border: solid;
+    border-radius: 20px;
+}
+
+img {
+    border: solid;
+    border-radius: 20px;
+}

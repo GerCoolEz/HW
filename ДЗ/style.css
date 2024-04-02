@@ -1,0 +1,100 @@
+body {
+    background-color:  rgb(55, 73, 73);
+    
+    
+   
+}
+
+
+
+.game1 {
+   margin: 100px auto;
+   text-align: center;
+   border: 5px solid;
+   padding: 10px 250px 10px 250px;
+   width: 20%;
+  background-color: orange;
+  font-size: 19px;
+}
+
+.game2 {
+    margin: 100px auto;
+    text-align: center;
+    border: 5px solid;
+    padding: 10px 100px 10px 100px;
+    width: 30%;
+   background-color: rgb(255, 255, 255);
+   font-size: 20px;
+   
+
+}
+
+
+.game3 {
+    margin: 100px auto;
+    text-align: center;
+    border: 5px solid;
+    padding: 1px 20px 50px 20px;
+    width: 30%;
+   background-color: rgb(194, 146, 146);
+   font-size: 25px
+   
+   
+
+}
+
+.game4 {
+    margin: 100px auto;
+    text-align: center;
+    border: 5px solid;
+    padding: 1px 200px 50px 200px;
+    width: 30%;
+   background-color: rgb(60, 54, 138);
+   font-size: 29px
+
+}
+
+
+.game5 {
+    margin: 100px auto;
+    text-align: center;
+    color: wheat;
+    border: 5px solid;
+    padding: 1px 200px 50px 200px;
+    width: 30%;
+   background-color: rgb(0, 0, 0);
+   font-size: 20px
+   
+
+}
+
+
+a {
+    color: rgb(217, 255, 0);
+    -webkit-text-stroke: 1.1px;
+    -webkit-text-stroke-color: black;
+    font-size: 45px;
+    text-decoration-line: none;
+}
+
+
+.img1 {
+    width: 100%;
+}
+
+.img2 {
+    width: 100%;
+}
+
+.img3 {
+    width: 100%;
+}
+
+.img4 {
+    width: 100%;
+}
+
+.img5 {
+    width: 100%;
+}
+

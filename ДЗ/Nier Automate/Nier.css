@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/767223309383607153/B0D22B9F7F398816C8AF91C36043707A3B385833/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+}
+
+
+div {
+    margin: 20px auto;
+   border: solid;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    width: 50%;
+    font-family: serif;
+}
+
+p {
+    border:  10px solid;
+    padding: 10px 10px 10px 10px;
+    font-size: 19px;
+    background-color: white;
+}
+
+a {
+    color: yellow;
+}
+
+img {
+    width: 100%;
+}

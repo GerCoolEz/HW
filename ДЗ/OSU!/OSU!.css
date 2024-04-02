@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://picstatio.com/large/psr_5g/abstract-diagonal-lines-wallpaper.jpg);
+}
+
+div {
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 50%;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: white;
+}
